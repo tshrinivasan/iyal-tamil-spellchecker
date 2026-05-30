@@ -2,3 +2,7 @@ temp
 *~
 metrics.json
 *.pyc
+
+# Virtual environment
+.venv
+./.venv
